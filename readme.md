@@ -1,3 +1,6 @@
+## https://www.udemy.com/ionic-2-the-practical-guide-to-building-ios-android-apps/learn/v4/content
+
+### NOTES:
 
   * create project via CLI:
 
@@ -261,7 +264,7 @@ http://cordova.apache.org/docs/en/7.x/index.html#page-toc-source
       - right click on project path in Xcode upon opening Xcode and delete `.xcodeproj` file.
 
       - delete `platforms/ios` directory + re-run `ionic cordova platform add ios`
-      
+
 ## Configuring App for Deployment
 
     - in `config.xml`:
