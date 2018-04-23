@@ -1,0 +1,42 @@
+page-add-place {
+
+  agm-map{
+    height: 250px;
+  }
+
+
+  .content{
+    background-color: #241d1d;
+
+  }
+
+  .title2{
+    // background-color: #e62406;
+    background-color: #7d4e07;
+
+  }
+
+  .titleText{
+    color: white;
+  }
+  .text-input::placeholder {
+    color: white;
+  }
+
+  .text-input::-moz-placeholder {
+    color: white;
+  }
+
+  .text-input:-ms-input-placeholder {
+    color: white;
+  }
+
+  h5{
+    color: #debd95;
+  }
+
+
+  // button{
+  //   border: 3px solid #7d4e07;
+  // }
+}
